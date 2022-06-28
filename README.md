@@ -1,7 +1,5 @@
-# Compiler_Construction_110073
+# CC-110073-summ2022 : Assignment # 01
 110073 Tuesday and Thursday ID.
-
-**ASSIGNMENT 01**
 
 ### PROJECT MEMBERS ###
 StdID | Name
