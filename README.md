@@ -2,7 +2,7 @@
 110073 Tuesday and Thursday ID.
 
 **ASSIGNMENT 01**
-**_____________________________**
+
 ### PROJECT MEMBERS ###
 StdID | Name
 ------------ | -------------
