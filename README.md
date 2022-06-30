@@ -2,8 +2,8 @@
 110073 Tuesday and Thursday ID.
 
 ### PROJECT MEMBERS ###
-StdID | Name
------------- | -------------
+StdID | Name |Introduction
+------------ | ------------- | -------------
 **64049** | **Muzammil Maqsood** 
 63437 | Ahsan Iqbal 
 **63654** | Azeem Bilal
