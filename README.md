@@ -6,6 +6,5 @@ StdID | Name
 ------------ | -------------
 **64049** | **Muzammil Maqsood** 
 63437 | Ahsan Iqbal 
-**63654** | Azeem Bilal
-64089 | Hassan Khan
+63654 | Azeem Bilal
 64068 | Hyder Ali
