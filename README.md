@@ -2,7 +2,7 @@
 110073 Tuesday and Thursday ID.
 
 ### PROJECT MEMBERS ###
-StdID | Name |Introduction
+**StdID** | **Name** |**Introduction of Group Members**
 ------------ | ------------- | -------------
 **64049** | **Muzammil Maqsood** | My Self Muzammil Maqsood. I have completed 7 semesters Alhamdulillah. I am registered in CC and Crypto right now.
 63437 | Ahsan Iqbal 
