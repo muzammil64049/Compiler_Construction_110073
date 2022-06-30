@@ -10,4 +10,4 @@ StdID | Name
 64089 | Hassan Khan
 64068 | Hyder Ali
 64239 | Syed Muhammad Uzair
-Intro: This is Syed Muhammad Uzair. I have completed 7 semesters Alhamdulillah. I am registered in CC and MAD right now.
+Introduction | This is Syed Muhammad Uzair. I have completed 7 semesters Alhamdulillah. I am registered in CC and MAD right now.
