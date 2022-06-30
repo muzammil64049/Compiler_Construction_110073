@@ -16,4 +16,4 @@
 Member 02 | This is **Ahsan Iqbal**. I am doing bachelor's in Computer science from PAF KIET. Currently I am registered in CC and Cryptography.
 Member 03 | I am **Bilal Azeem**. I have completed mostly all of my courses except FYP and electives. Currently I am studying Compiler Construction and Cryptography in summer semester'22.
 Member 04 | I am **Hyder Ali**. I have completed mostly all of my courses including FYP with remaining 2 Electives.
-Member 05 | I am **Syed Muhammad Uzair**. This is Syed Muhammad Uzair. I have completed 7 semesters Alhamdulillah. I am registered in CC and MAD right now.
+Member 05 | I am **Syed Muhammad Uzair**. I have completed 7 semesters Alhamdulillah. I am registered in CC and MAD right now.
