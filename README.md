@@ -12,4 +12,4 @@
 
 **Members** |**Introduction**
 ------------ | -------------
-Member 1(Leader) | | My Self Muzammil Maqsood. I have completed 7 semesters Alhamdulillah. I am registered in CC and Crypto right now.
+**Member 1(Group Leader)** | My Self Muzammil Maqsood. I have completed 7 semesters Alhamdulillah. I am registered in CC and Crypto right now.
